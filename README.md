@@ -16,6 +16,4 @@
 
 #### 参与贡献
 
-徐清风
-
-6.  [徐清风 (xyx1926885268_xqf) - Gitee.com](https://gitee.com/xyx1926885268_xqf))
+1.  [徐清风 (xyx1926885268_xqf) - Gitee.com](https://gitee.com/xyx1926885268_xqf))
