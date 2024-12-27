@@ -12,7 +12,9 @@ bin-release/
 *.air
 *.ipa
 *.apk
-
+空文件夹扫描器.onefile-build/
+空文件夹扫描器.dist/
+空文件夹扫描器.build/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
